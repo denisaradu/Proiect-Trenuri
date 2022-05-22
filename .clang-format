@@ -1,0 +1,7 @@
+---
+BasedOnStyle: gnu
+AlwaysBreakAfterReturnType: None
+AlwaysBreakAfterReturnType: None
+AlwaysBreakAfterDefinitionReturnType: None
+SpaceBeforeParens: ControlStatements
+ColumnLimit: 0
