@@ -1,10 +1,11 @@
 # Proiect-Trenuri
-Cerintele aferente codului pentru Proiectul cu trenuri sunt:
-1. Citiți datele din arhiva atașată.
-2. Creați un graf neorientat și altul orientat din fișerele atașate. Creați matricea de adiancență și separat graful de costuri. La punctele următoare folosiți graful neorientat.
-3. Găsiți stațiile consecutive care au distanța minimă/maximă între ele. (rezultatele în fișierele min.txt și max.txt)
-4. Câți km de cale ferată există în baza noastră de date? (rezultatele în fișierul total.txt)
-5. Calculați drumul de cost minim de la București la orașul vostru natal. (rezultatele în fișierul ruta.txt)
-6. Găsiți stația (nodul) cea mai departe de București și drumul. (rezultatele în fișierul departe.txt)
-7. Găsiți toate drumurile de la București la Oradea. (rezultatele în fișierul bucuresti_oradea.txt)
-8. Găsiți cele două stații din graf care sunt la distanța maximă (pe drumul de cost minim). (rezultatele în fișierul drum_lung.txt)
+Acest proiect are ca scop prelucrarea unor fisiere text cu informatie despre toate statiile de tren din Romania si utilizarea mai multor algoritmi asupra grafurilor, precum Dijkstra sau Floyd-Warshall in C.
+
+1. Cititi datele din arhiva.
+2. Creati un graf neorientat si altul orientat din fisierele atasate. Creati matricea de adiancenta si separat graful de costuri. La punctele urmatoare folositi graful neorientat.
+3. Gasiti statiile consecutive care au distanta minima/maxima între ele. (rezultatele in fisierele min.txt și max.txt)
+4. Cati km de cale ferata exista in baza noastra de date? (rezultatele in fisierul total.txt)
+5. Calculati drumul de cost minim de la Bucuresti la orașul vostru natal. (rezultatele in fisierul ruta.txt)
+6. Gasiti statia (nodul) cea mai departe de Bucuresti si drumul. (rezultatele in fisierul departe.txt)
+7. Gasiti toate drumurile de la Bucuresti la Oradea. (rezultatele in fisierul bucuresti_oradea.txt)
+8. Gasiti cele doua statii din graf care sunt la distanta maxima (pe drumul de cost minim). (rezultatele in fișierul drum_lung.txt)
